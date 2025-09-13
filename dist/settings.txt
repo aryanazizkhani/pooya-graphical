@@ -1,0 +1,4 @@
+lightblue
+Courier,12
+SystemButtonFace
+EN
